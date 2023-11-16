@@ -1,0 +1,10 @@
+  583  nano ingredients.txt 
+  584  cat ingredients.txt 
+  585  git diff ingredients.txt 
+  586  git diff
+  587  git add .
+  588  git status
+  589  git commit -m 'second commit'
+  590  git diff
+  591  history | tail
+  592  history | tail > 20231116_itworked.txt
